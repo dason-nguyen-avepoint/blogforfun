@@ -1,6 +1,5 @@
 import React from "react";
 import BlogIntroTitle from "./BlogIntroTitle";
-import BlogFooter from "./BlogFooter";
 import BlogFooterImage from "./BlogFooterImage";
 import "./BlogContent.css";
 
